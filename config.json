@@ -1,0 +1,14 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/cleanblog",
+    "prod_uri": "mysql://root:@localhost/cleanblog",
+    "fb_url": "https://facebook.com/cleanblog",
+    "tw_url": "https://twitter.com/cleanblog",
+    "gh_url": "https://github.com/cleanblog",
+    "gmail-user":"ananyaghosh00164@gmail.com",
+    "gmail-password":"Password1234!"
+  }
+
+}
